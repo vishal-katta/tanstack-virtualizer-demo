@@ -1,0 +1,57 @@
+<svg width="800" height="450" viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="450" fill="#f8fafc" />
+  
+  <!-- Header -->
+  <rect x="50" y="30" width="700" height="80" rx="8" fill="white" stroke="#e2e8f0" stroke-width="2" />
+  <rect x="70" y="50" width="200" height="20" rx="4" fill="#e2e8f0" />
+  <rect x="70" y="80" width="120" height="10" rx="2" fill="#e2e8f0" />
+  <rect x="620" y="55" width="80" height="30" rx="4" fill="#3b82f6" />
+  
+  <!-- List/Grid Demo -->
+  <rect x="50" y="130" width="700" height="290" rx="8" fill="white" stroke="#e2e8f0" stroke-width="2" />
+  
+  <!-- Controls -->
+  <rect x="70" y="150" width="660" height="40" rx="4" fill="#f1f5f9" />
+  <rect x="80" y="160" width="200" height="20" rx="4" fill="#e2e8f0" />
+  <rect x="620" y="160" width="30" height="20" rx="4" fill="#3b82f6" />
+  <rect x="660" y="160" width="30" height="20" rx="4" fill="#e2e8f0" />
+  
+  <!-- Virtual Grid Items -->
+  <g>
+    <!-- Row 1 -->
+    <rect x="70" y="210" width="200" height="80" rx="4" fill="white" stroke="#e2e8f0" stroke-width="1" />
+    <rect x="70" y="210" width="200" height="30" rx="4" fill="#3b82f6" />
+    <rect x="90" y="255" width="160" height="10" rx="2" fill="#e2e8f0" />
+    <rect x="90" y="270" width="120" height="10" rx="2" fill="#e2e8f0" />
+    
+    <rect x="290" y="210" width="200" height="80" rx="4" fill="white" stroke="#e2e8f0" stroke-width="1" />
+    <rect x="290" y="210" width="200" height="30" rx="4" fill="#14b8a6" />
+    <rect x="310" y="255" width="160" height="10" rx="2" fill="#e2e8f0" />
+    <rect x="310" y="270" width="120" height="10" rx="2" fill="#e2e8f0" />
+    
+    <rect x="510" y="210" width="200" height="80" rx="4" fill="white" stroke="#e2e8f0" stroke-width="1" />
+    <rect x="510" y="210" width="200" height="30" rx="4" fill="#f97316" />
+    <rect x="530" y="255" width="160" height="10" rx="2" fill="#e2e8f0" />
+    <rect x="530" y="270" width="120" height="10" rx="2" fill="#e2e8f0" />
+    
+    <!-- Row 2 -->
+    <rect x="70" y="310" width="200" height="80" rx="4" fill="white" stroke="#e2e8f0" stroke-width="1" />
+    <rect x="70" y="310" width="200" height="30" rx="4" fill="#8b5cf6" />
+    <rect x="90" y="355" width="160" height="10" rx="2" fill="#e2e8f0" />
+    <rect x="90" y="370" width="120" height="10" rx="2" fill="#e2e8f0" />
+    
+    <rect x="290" y="310" width="200" height="80" rx="4" fill="white" stroke="#e2e8f0" stroke-width="1" />
+    <rect x="290" y="310" width="200" height="30" rx="4" fill="#ec4899" />
+    <rect x="310" y="355" width="160" height="10" rx="2" fill="#e2e8f0" />
+    <rect x="310" y="370" width="120" height="10" rx="2" fill="#e2e8f0" />
+    
+    <rect x="510" y="310" width="200" height="80" rx="4" fill="white" stroke="#e2e8f0" stroke-width="1" />
+    <rect x="510" y="310" width="200" height="30" rx="4" fill="#10b981" />
+    <rect x="530" y="355" width="160" height="10" rx="2" fill="#e2e8f0" />
+    <rect x="530" y="370" width="120" height="10" rx="2" fill="#e2e8f0" />
+  </g>
+  
+  <!-- TanStack Virtual Demo Text -->
+  <text x="400" y="225" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1e293b">TanStack Virtualizer Demo</text>
+</svg> 
